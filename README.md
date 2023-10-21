@@ -7,7 +7,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-# Laravel 10 Cashier Application
+# Laravel 10 and ajax CRUD implement
 
 This repository is made for the benefit of my study.
 
